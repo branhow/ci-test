@@ -32,4 +32,21 @@
       </plugin>
     </plugins>
   </reporting>
+
+  <contributors>
+    <contributor>
+      <name>Brandon</name>
+      <email>ajack030@gmail.com</email>
+      <url>http://bran_noire.com</url>
+      <organization>Bran Noire</organization>
+      <organizationUrl>http://bran_noire.com</organizationUrl>
+      <roles>
+        <role>tester</role>
+      </roles>
+      <timezone>America/Maryland</timezone>
+      <properties>
+        <gtalk>ajack030@gmail.com</gtalk>
+      </properties>
+    </contributor>
+  </contributors>
 </project>
